@@ -1,0 +1,9 @@
+<svg id="icon-androidapps" xmlns="http://www.w3.org/2000/svg" width="36.001" height="23.005" viewBox="0 0 36.001 23.005">
+  <g id="Android_Apps_icon_default" data-name="Android Apps icon default" transform="translate(2003 1814.175)">
+    <g id="Group_532" data-name="Group 532" transform="translate(-2003 -1816.17)">
+      <path id="Subtraction_99" data-name="Subtraction 99" d="M-3184-52.783h-36a18.044,18.044,0,0,1,18-18.047,18.043,18.043,0,0,1,18,18.044v0Zm-10-7.83a2,2,0,0,0-2,2,2,2,0,0,0,2,2,2,2,0,0,0,2-2A2,2,0,0,0-3194-60.613Zm-16,0a2,2,0,0,0-2,2,2,2,0,0,0,2,2,2,2,0,0,0,2-2A2,2,0,0,0-3210-60.613Z" transform="translate(3220.001 77.783)" fill="#eee"/>
+      <path id="Path_7919" data-name="Path 7919" d="M.418,0,1.477.039c.234.008.427.452.43.991L2,15.04c0,.539-.183.969-.417.96L.524,15.962C.29,15.954.1,15.51.094,14.972L0,.961C0,.422.184-.008.418,0Z" transform="translate(1.999 2.995) rotate(-30)" fill="#eee"/>
+      <path id="Path_7920" data-name="Path 7920" d="M.517.037,1.576,0C1.81-.01,2,.42,1.994.959L1.9,14.97c0,.539-.2.982-.43.991L.411,16c-.234.008-.421-.422-.417-.96L.087,1.027C.09.488.283.045.517.037Z" transform="translate(32.005 2) rotate(30)" fill="#eee"/>
+    </g>
+  </g>
+</svg>

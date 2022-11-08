@@ -1,0 +1,274 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.navbar {
+  background: black;
+  left: 0;
+  right: 0;
+  top: 0;
+  position: sticky;
+
+}
+
+.navbar-brand img {
+  width: 50px;
+  height: 50px;
+}
+.nav-it a{
+  color: #fff;
+} 
+.navbar-nav {
+ 
+  gap: 93px;
+}
+.icons {
+  margin-right: 90px;
+}
+.nav-item a {
+  color: rgb(78, 78, 78);
+  font-size: 18px;
+}
+header {
+  background: rgb(45, 42, 42);
+  width: 100%;
+  height: 120px;
+  border-bottom: 1px solid rgb(0, 252, 0);
+}
+.heder {
+  padding: 27px;
+  text-align: center;
+  /* width: 130px; */
+  min-height: 30px !important;
+  align-items: center;
+}
+.heder a {
+  text-align: center;
+  text-decoration: none;
+}
+.heder h6 {
+  text-align: center;
+  font-size: 10px;
+  line-height: 50px !important;
+  color: #fff;
+  text-decoration: none;
+}
+.container {
+  width: 100%;
+}
+.gff {
+  width: 100%;
+  display: flex;
+  align-items: center !important;
+  /* justify-content: center; */
+}
+.card {
+  padding: 5px;
+  text-align: center;
+  width: 100%;
+  height: max-content;
+  background: rgb(76, 76, 76);
+}
+.card p {
+  color: #fff;
+}
+.card1 {
+  text-align: center;
+  background: rgb(32, 32, 32);
+  height: max-content;
+  width: 100%;
+}
+.card1 h1 {
+  padding-top: 30px;
+  margin-top: 20px 10px;
+  color: rgb(0, 252, 0);
+  font-size: 30px;
+}
+.card1 p{
+  font-size: 20px;
+  color: rgb(78, 78, 78);
+}
+.card2{
+  line-height: 80px;
+  text-align: center;
+  background: url(/o2u4eFvFHqvF7bsJTotBYn-1200-80.jpg) no-repeat center center/cover;
+  width: 100%;
+  height: 700px;
+  border-bottom: 1px solid rgb(0, 252, 0);
+}
+.card2 h2{
+  padding-top: 50px;
+  color: rgb(252, 255, 252);
+}
+.card2 h4{
+  color: #fff;
+}
+.card2 button{
+  font-size:20px;
+  color: rgb(0, 252, 0);
+  background: none;
+  border: none;
+}
+.card3{
+  padding-top: 20px;
+  background: rgb(43, 43, 43);
+  width: 100%;
+  height: max-content;
+  display: flex;
+  gap: 140px;
+  justify-content: center;
+}
+.cart{
+  margin-left: 70px;
+  margin-top: 40px;
+  background: rgb(22, 22, 22);
+  margin-bottom: 40px;
+  border-bottom: 1px solid rgb(0, 252, 0);
+}
+.card-body h5{
+  color: #fff;
+
+}
+.card-text{
+  color: rgb(105, 105, 105);
+}
+.btn{
+  text-decoration: none;
+  color: rgb(0, 252, 0);
+  padding-top: 100px;
+}
+.card4{
+  width: 100%;
+  height: 1000px;
+  border-bottom: 2px solid rgb(0, 252, 0);
+  background: url(/Снимок\ экрана\ 2022-11-07\ 172735.png) no-repeat center center/cover;
+}
+.cards{
+  margin-left: 70px;
+  margin-top: 30px;
+  margin-bottom: 40px;
+  border-bottom: 2px solid rgb(0, 252, 0);
+  height: 600px;
+  background: rgb(0, 0, 0);
+}
+.card5{
+  text-align: center;
+  height: max-content;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background: rgb(22, 22, 22);
+}
+.karta1{
+  padding-top: 30px;
+  height: max-content;
+  display: flex;
+  gap: 140px;
+  justify-content: center;
+}
+.karta2{
+  padding-top: 20px; 
+  height: max-content;
+  display: flex;
+  gap: 140px;
+  justify-content: center;
+}
+.cart{
+
+}
+.cards img{
+  width: 100%;
+  height: 280px;
+}
+.card6{
+  line-height: 30px;
+  text-align: center;
+  padding-top: 20px;
+  width: 100%;
+  height: 800px;
+  border-bottom: 2px solid rgb(0, 252, 0);
+  background: url(/gothe-extramile-category-1920x700-desktop.jpg) no-repeat center center/cover;
+}
+.card6 h1{
+  color: #fff;
+}
+.card p{
+  font-size: 20px;
+  color: rgb(83, 83, 83);
+}
+.card7{
+  height: max-content;
+  padding-top: 30px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  background:rgb(36, 35, 35) ;
+}
+.card8{
+  height: 450px;
+  background: black;
+  display: flex;
+  justify-content: space-evenly;
+  border-bottom: 5px solid rgb(0, 252, 0);
+}
+.card ul{
+}
+.card8 ul li{
+  padding-top: 20px;
+  color: rgb(107, 105, 105);
+  text-decoration: none;
+  list-style: none;
+}
+.card8 .bbb{
+  color: #fff;
+}
+@media all and (max-width: 1416px){
+  .container{
+    width: 1005;
+  }
+  .navbar-nav {
+    background: black;
+    width: 1005;
+    gap: 53px;
+  }
+  .gff {
+    width: 100%;
+    flex-wrap: wrap;
+  }
+  header{
+    height: 250px;
+  }
+  .card3{
+    display: flex;
+    justify-content: center;
+  }
+}
+@media all and (max-width: 1216px){
+  .navbar-nav {
+    background: black;
+    width: 1005;
+    gap: 33px;
+  }
+   .card3 .cart{
+    justify-content: center;
+  }
+  .card8{
+    display: none;
+  }
+}
+@media all and (max-width: 952px){
+  .card3 .cart{
+    justify-content: center;
+  }
+}
+@media all and (max-width: 670px){
+  .gff {
+    width: 100%;
+    flex-wrap: wrap;
+  }
+  header{
+    height: 450px;
+  }
+}
